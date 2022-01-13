@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90202062533",
+    "project_id": "tempus-a95ba",
+    "storage_bucket": "tempus-a95ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90202062533:android:6097be4577535076da7aac",
+        "android_client_info": {
+          "package_name": "com.example.tempus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90202062533-rdt7hraqbhghpql209b2isl0d388vdg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2XIBHFRwlSKJi9Iis6acjxh-T5g_bngU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90202062533-rdt7hraqbhghpql209b2isl0d388vdg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
